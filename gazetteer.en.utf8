@@ -1,0 +1,20 @@
+# Fields must be separated by vertical line, label must not have such a vertical line.
+# Comments have this hash mark in first column. 
+# coordinates in degrees from true North. 
+# line towards zenith draws a single line strictly upward.
+# label is centered on line endpoint. 
+# Azimuth | Altitude | degrees-towards-zenith | azimuth shift | label
+
+247 | 0 | 0 | 0 | Aksu
+208 | 0 | 0 |  0 | Korla
+255 | 0 | 0 |  0 | Altay
+080 | 0 | 0 |  0 | Beijing
+126 | 0 | 0 |  0 | Hong Kong
+168 | 0 | 0 |  0 | Lhasa
+309 | 0 | 0 |  0 | Moscow
+346 | 0 | 0 |  0 | Novosibirsk
+067 | 0 | 0 |  0 | Ulaanbaatar
+309 | 5 | 5 |  0 | Gent
+
+#247 | 0 | 0 |  0   Kashgar
+#247 | 0 | 0 |  0 |Tien Shan
